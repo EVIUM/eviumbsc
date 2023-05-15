@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd8890E15D59571f84A09aD05c5c85618A13B725B",
+  "SCAN_LINK": "https://bscscan.com/token/0xd8890E15D59571f84A09aD05c5c85618A13B725B",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "EVIUM",
+  "SYMBOL": "EVIUM",
+  "MAX_SUPPLY": 1000000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://evium.org",
+  "SHOW_BACKGROUND": true
+}
